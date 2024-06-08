@@ -13,3 +13,6 @@ Projeto simples, assim que apertar o play s unica alteração possivel é no sen
 Componentes ultilizados 
 Arduino uno, 2 resistores, breadboard e um sensor ultrassonico.
 
+Feito por:
+Edson Rainha Fonseca Junior
+RM558354
